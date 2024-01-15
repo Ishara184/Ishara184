@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-<p align="center"><img width="200" height="200" src="C:\Users\LENOVO\Pictures\WhatsApp Image 2024-01-15 at 21.28.23_3a66bd9e.jpg"></p>
+
+
 
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishara184&show_icons=true&locale=en" alt="ishara184" /></p>
 
 
->
+
