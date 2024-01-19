@@ -43,13 +43,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<br>
 <h6 align="left">Contact me:</h6>
 
    - 📫 **wijesundaraishara2001@gmail.com**
 
-<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishara184&show_icons=true&locale=en&layout=compact" alt="ishara184" /--></p>
 
-<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishara184&show_icons=true&locale=en" alt="ishara184" /--></p>
 
 
 
