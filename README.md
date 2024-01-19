@@ -16,7 +16,7 @@
 
 <h6 align="center">Connect with me:</h6>
 <p align="center">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/ ishara-wijesundara-a21aab217](https://linkedin.com/in/https://www.linkedin.com/in/ishara-wijesundara-a21aab217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ishara-wijesundara-a21aab217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishara wijesundara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishara wijesundara" height="30" width="40" /></a>
 <a href="https://twitter.com/ishuwijesundara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishuwijesundara" height="30" width="40" /></a>
 <a href="https://instagram.com/ishu.w184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishu.w184" height="30" width="40" /></a>
 </p>
