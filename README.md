@@ -3,14 +3,9 @@
 
 
 <h1 align="center">I'm Ishara Wijesundara </h1>
-<h3 align="center">A passionate IT Student from Sri Lanka</h3>
-<br>
+<h3 align="center">IT Student from Sri Lanka</h3>
 
 <!-- p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishara184" alt="ishara184"/--></a> </p>
-
-<h6 align="center">Contact me:</h6>
-
-   - 📫 How to reach me **wijesundaraishara2001@gmail.com**
 
 <h6 align="center">Connect with me:</h6>
 <p align="center">
@@ -47,6 +42,10 @@
 <h4 align="left">Other Tools:</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+<h6 align="left">Contact me:</h6>
+
+   - 📫 **wijesundaraishara2001@gmail.com**
 
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishara184&show_icons=true&locale=en&layout=compact" alt="ishara184" /--></p>
 
