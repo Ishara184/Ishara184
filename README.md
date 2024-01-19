@@ -3,7 +3,7 @@
 ### Hi Everyone 👋
 
 <h1 align="center">I'm Ishara Wijesundara </h1>
-<h3 align="center">IT Student from Sri Lanka</h3>
+<h3 align="center">IT Undergraduate from Sri Lanka</h3>
 
 <!-- p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishara184" alt="ishara184"/--></a> </p>
 
