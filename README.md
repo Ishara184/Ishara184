@@ -1,6 +1,6 @@
+![WhatsApp Image 2024-01-19 at 13 05 33_f48fc7e3](https://github.com/Ishara184/Ishara184/assets/156680354/619092f3-1cb9-4ce8-8a10-593f3464fdad)
+
 ### Hi Everyone 👋
-
-
 
 <h1 align="center">I'm Ishara Wijesundara </h1>
 <h3 align="center">IT Student from Sri Lanka</h3>
