@@ -30,6 +30,8 @@
 
 <h4 align="left">Backend Development:</h4>
 
+<h4 align="left">Mobile Application Developmen:</h4>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 <h4 align="left">Database:</h4> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
@@ -44,7 +46,7 @@
 </p>
 
 <br>
-<h6 align="left">Contact me:</h6>
+<h6 align="left">Contact Info:</h6>
 
    - 📫 **wijesundaraishara2001@gmail.com**
 
