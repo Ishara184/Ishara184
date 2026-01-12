@@ -3,7 +3,7 @@
 ### Hi Everyone 👋
 
 <h1 align="center">I'm Ishara Wijesundara </h1>
-<h3 align="center">IT Undergraduate from Sri Lanka</h3>
+<h3 align="center">Final Year IT Undergraduate at SLIIT</h3>
 
 <!-- p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishara184" alt="ishara184"/--></a> </p>
 
@@ -13,6 +13,8 @@
 <a href="https://twitter.com/ishuwijesundara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishuwijesundara" height="30" width="40" /></a>
 <a href="https://instagram.com/ishu.w184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishu.w184" height="30" width="40" /></a>
 </p>
+
+---
 
 <br>
 <h3> Tech Stack: </h3>
@@ -49,16 +51,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+---
+
 <br>
 <h6 align="left">Contact Info:</h6>
-
    - 📫 **wijesundaraishara2001@gmail.com**
-
-
 <br>
-  
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara184&count_private=true&theme=algolia&bg_color=0,000000,004d24&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
-  
 
 
 
